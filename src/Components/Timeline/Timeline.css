@@ -16,7 +16,7 @@
   position: absolute;
   content: "";
   width: 2px;
-  height: 104%;
+  height: 103%;
   background-color: #d8e9a8;
   top: -24px;
 }
@@ -54,7 +54,7 @@
   left: 0;
 }
 
-.container ul li:nth-child(4) {
+.container ul li:nth-child(5) {
   margin-bottom: 0;
 }
 
